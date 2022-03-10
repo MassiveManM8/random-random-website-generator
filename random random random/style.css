@@ -1,0 +1,50 @@
+body {
+  padding: 0px;
+  margin: 0px;
+  text-align: center;
+}
+
+#title-el {
+  padding: 18px 20px 20px 20px;
+  margin: 0px;
+  background-color: lightseagreen;
+  font-family: "Staatliches", cursive;
+}
+
+#img-el {
+  position: absolute;
+  top: 140px;
+  left: 23%;
+  transform: rotate(30deg);
+  width: 400px;
+  height: auto;
+}
+
+#info-el {
+  position: absolute;
+  top: 130px;
+  left: 45%;
+  width: 350px;
+  height: auto;
+}
+
+#rand-btn {
+  margin: 340px 0px 0px 0px;
+  padding: 10px 30px 9px 30px;
+  font-size: 50px;
+  font-family: "Staatliches", cursive;
+  background-color: aliceblue;
+  border-radius: 3px;
+}
+
+#footer-el {
+  padding: 7px 10px 10px 10px;
+  margin-top: 165px;
+  background-color: rgb(53, 119, 97);
+}
+
+#credit-el {
+  text-decoration: none;
+  color: black;
+  font-family: "Staatliches", cursive;
+}
